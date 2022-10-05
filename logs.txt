@@ -1,0 +1,116 @@
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Channel DataBase anda, CHANNEL_ID Saat Ini: -1001812349707
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Channel DataBase anda, CHANNEL_ID Saat Ini: -1001812349707
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_CHANNEL!
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Channel Tersebut, Chat ID F-Subs Channel Saat Ini: -1001812349707
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: -1001826988039
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: -1001826988039
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: -1001826988039
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: -1001826988039
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: -1001826988039
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_GROUP!
+[WARNING] - bot - Pastikan @mantap_video_bot adalah admin di Group Tersebut, Chat ID F-Subs Group Saat Ini: -1001826988039
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: mantap video
+└ Username: @mantap_video_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: mantap grub
+└ Chat ID: -1001826988039
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: mantap channel
+└ Chat ID: -1001812349707
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @samsularifin91
+Jika @samsularifin91 Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[INFO] - root - Stop signal received (SIGINT). Exiting...
+[INFO] - bot - Bot stopped.
